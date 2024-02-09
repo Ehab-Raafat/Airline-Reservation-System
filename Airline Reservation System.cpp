@@ -2,7 +2,7 @@
 #include<fstream>
 #include<iomanip>
 #include<string>
-// Designed By an Electrical Engineer :- Ehap Raafat Said 
+// Designed By an Electrical Engineer :- Ehab Raafat Said 
 using namespace std;
 
 struct passenger
